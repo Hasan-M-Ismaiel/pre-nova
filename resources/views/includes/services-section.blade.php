@@ -14,6 +14,9 @@
                     <p class="mb-5">
                         Our mission is to help events and brands shine online through innovation, precision, and a clear digital vision.
                         Here are the core services that power this approach and bring your ideas to life.
+                        <a href="{{ route('services.index') }}">
+                            Discover more...
+                        </a>
                     </p>
                     <div class="d-flex align-items-center bg-light">
                         <div class="btn-square flex-shrink-0 bg-primary" style="width: 100px; height: 100px;">

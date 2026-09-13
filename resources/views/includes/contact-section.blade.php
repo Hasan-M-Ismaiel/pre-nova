@@ -20,9 +20,9 @@
                         <span class="text-uppercase text-primary bg-light px-2">Contact Us</span>
                     </h1>
                     <p class="text-center mb-4 text-muted">
-                        Whether you’re planning an event, building your digital brand, or looking for creative guidance -
+                        Whether you’re building your digital brand, or looking for creative guidance -
                         let’s talk. You’ll connect directly with <strong>Hasan</strong> and the
-                        <strong>novALight</strong> team to bring your ideas to life.
+                        <strong>novALight</strong> team with less than 6 hours and They will handle it from there bring your ideas to life.
                     </p>
 
 

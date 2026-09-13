@@ -7,11 +7,11 @@
                      Innovation </h1>
                  <div class="p-4 rounded-2 shadow-lg bg-opacity-25 ">
                      <h5 class="mb-3 lh-lg animated slideInRight">
-                         Partner with
-                         <a href="https://www.tedxjumeirahbeachpark.com/" class="fw-bold text-decoration-none">
-                             TEDxJumeirahBeachPark
+                         Bring your
+                         <a href="#" class="fw-bold text-decoration-none">
+                             Business
                          </a>
-                         since <span class="fw-semibold">2024</span>.
+                         to <span class="fw-semibold">Life</span>.
                      </h5>
 
                      <p class="mb-4 lh-lg animated slideInRight">

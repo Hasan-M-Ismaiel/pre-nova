@@ -14,7 +14,7 @@
                 <!-- <p><i class="fa fa-map-marker-alt me-3"></i>Suite 222, City center, Dubai Marina, Dubai, UAE</p> -->
                 <!-- <p><i class="fa fa-phone-alt me-3"></i>+971 56966 0429</p> -->
                 <p><i class="fa fa-phone-alt me-3"></i>+963 997195673</p>
-                <p><i class="fa fa-envelope me-3"></i>info@novalight-media.com</p>
+                <p><i class="fa fa-envelope me-3"></i>hello@novalight-media.com</p>
                 <div class="d-flex pt-2">
                     <!-- <a class="btn btn-outline-primary btn-square border-2 me-2" href="#!"><i
                             class="fab fa-twitter"></i></a> -->
@@ -38,12 +38,12 @@
             </div>
             <div class="col-md-6 col-lg-3 wow fadeIn" data-wow-delay="0.7s">
                 <h5 class="text-white mb-4">Our Services</h5>
-                <a class="btn btn-link" href="#services">Digital Presence Management</a>
-                <a class="btn btn-link" href="#services">Content & Social Management</a>
-                <a class="btn btn-link" href="#services">Video Editing & Creative Production</a>
-                <a class="btn btn-link" href="#services">Technical Consultation & Feedback</a>
-                <a class="btn btn-link" href="#services">Web Design & Development</a>
-                <a class="btn btn-link" href="#services">Branding & Design</a>
+                <a class="btn btn-link" href="{{ route('services.index') }}">Digital Presence Management</a>
+                <a class="btn btn-link" href="{{ route('services.index') }}">Content & Social Management</a>
+                <a class="btn btn-link" href="{{ route('services.index') }}">Video Editing & Creative Production</a>
+                <a class="btn btn-link" href="{{ route('services.index') }}">Technical Consultation & Feedback</a>
+                <a class="btn btn-link" href="{{ route('services.index') }}">Web Design & Development</a>
+                <a class="btn btn-link" href="{{ route('services.index') }}">Branding & Design</a>
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@
         <div class="copyright">
             <div class="row">
                 <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                    &copy; <a class="border-bottom" href="{{ route('home') }}">novALight</a>, All Right Reserved. 2025
+                    &copy; <a class="border-bottom" href="{{ route('home') }}">novALight</a>, All Right Reserved. 2026
 
                     <!--/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. ***/-->
                     <!--/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, ***/-->
