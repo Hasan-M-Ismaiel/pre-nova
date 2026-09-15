@@ -53,7 +53,7 @@ class User extends Authenticatable
 
     public function specialistProfile()
     {
-        return $this->hasOne(specialistProfile::class);
+        return $this->hasOne(SpecialistProfile::class);
     }
 
     /*
