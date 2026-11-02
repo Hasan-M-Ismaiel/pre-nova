@@ -13,8 +13,8 @@
                 <div class="navbar-nav ms-auto">
                     <a href="{{ route('home') }}" class="nav-link {{ request()->routeIs('home') ? 'active' : '' }}">Home</a>
                     <a href="{{ route('home') }}#about" class="nav-item nav-link">About</a>
-                    <a href="{{ route('specialists.index') }}" class="nav-link {{ request()->routeIs('specialists.index') ? 'active' : '' }}">Specialists</a>
-                    <a class="nav-link {{ request()->routeIs('projects.*') ? 'active' : '' }}" href="{{ route('projects.index') }}"> Projects</a>
+                    <!-- <a href="{{ route('specialists.index') }}" class="nav-link {{ request()->routeIs('specialists.index') ? 'active' : '' }}">Specialists</a> -->
+                    <!-- <a class="nav-link {{ request()->routeIs('projects.*') ? 'active' : '' }}" href="{{ route('projects.index') }}"> Projects</a> -->
                     <a href="{{ route('home') }}#services" class="nav-item nav-link">Services</a>
                     <a href="{{ route('blog.index') }}" class="nav-link {{ request()->routeIs('blog.index') ? 'active' : '' }}">Blog</a>
 

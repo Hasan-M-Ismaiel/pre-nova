@@ -27,7 +27,7 @@
 <!-- End team-section -->
 
 <!-- Start testimonial-section -->
-@include('includes.testimonials-section')
+<!-- include('includes.testimonials-section') -->
 <!-- End testimonial-section -->
 
 <!-- Start contact-section -->
